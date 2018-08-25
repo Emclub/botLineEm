@@ -4,9 +4,11 @@ apt upgrade
 
 apt install git
 
-apt install python3-pip
+pkg install python3
 
-pip3 install rsa
+pip3 install rsa 
+
+pip2 install rsa
 
 pip3 install thrift==0.11.0
 

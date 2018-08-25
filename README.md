@@ -6,9 +6,7 @@ apt install git
 
 pkg install python3
 
-pip3 install rsa 
-
-pip2 install rsa
+pip3 install rsa
 
 pip3 install thrift==0.11.0
 
@@ -28,8 +26,8 @@ pkg install nano
 
 git clone https://github.com/Emclub/EmtesBotself
 
-Nano pb.py    (Edit MID)
+Nano pi.py    (Edit MID)
 
-cd 55555
+cd EmTesBotself
 
-python3 pb.py
+python3 pi.py

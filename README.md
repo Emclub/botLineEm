@@ -30,4 +30,4 @@ Nano pi.py    (Edit MID)
 
 cd EmTesBotself
 
-python3 pi.py
+PYThon3 Tes.py
